@@ -163,4 +163,4 @@ Ce travail s'appuie sur l'analyse critique des papiers suivants :
 
 -----
 
-*Projet réalisé dans le cadre du cours "AI Algorithms".*
+
