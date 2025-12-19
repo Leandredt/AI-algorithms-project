@@ -49,7 +49,7 @@ Le génome de nos modèles est défini par les hyperparamètres suivants :
 
 Au lieu d'un entraînement complet, nous utilisons une stratégie d'**Estimation Basse Fidélité** (inspirée par *DistilBERT* et *LEMONADE*) :
 
-  * **Dataset :** GLUE/SST-2 (sous-échantillonné à 4000 exemples).
+  * **Dataset :** GLUE/SST-2 (sous-échantillonné à 1000 exemples).
   * **Entraînement :** Les modèles sont entraînés *from scratch* (poids aléatoires) pendant seulement **50 à 400 steps**.
   * **Hypothèse :** La vitesse d'apprentissage (Learning Speed) dans les premiers instants est corrélée à la performance finale.
 
@@ -162,6 +162,7 @@ Ce travail s'appuie sur l'analyse critique des papiers suivants :
   * Geoffroy-Junior GANKOUE-DZON (Analyse & Recherche)
 
 -----
+
 
 
 
