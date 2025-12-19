@@ -71,7 +71,7 @@ Au lieu d'un entraînement complet, nous utilisons une stratégie d'**Estimation
 
 ```bash
 # Cloner le repo
-git clone https://github.com/votre-username/nas-distilbert-project.git
+git clone https://github.com/Leandredt/AI-algorithms-project.git
 cd nas-distilbert-project
 
 # Installer les dépendances
@@ -162,5 +162,6 @@ Ce travail s'appuie sur l'analyse critique des papiers suivants :
   * Geoffroy-Junior GANKOUE-DZON (Analyse & Recherche)
 
 -----
+
 
 
